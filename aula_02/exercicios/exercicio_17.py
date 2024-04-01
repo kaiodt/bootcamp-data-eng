@@ -10,8 +10,8 @@
 #                                                                            #
 ##############################################################################
 
-val_1 = bool(input("Digite verdadeiro ('True') ou falso (''): "))
-val_2 = bool(input("Digite verdadeiro ('True') ou falso (''): "))
+val_1 = bool(input("Digite verdadeiro ('True') ou falso ('False'): "))
+val_2 = bool(input("Digite verdadeiro ('True') ou falso ('False'): "))
 
 print(f"{val_1} OR {val_2} = {val_1 or val_2}")
 

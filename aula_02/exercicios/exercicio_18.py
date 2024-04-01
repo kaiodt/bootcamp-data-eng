@@ -10,7 +10,7 @@
 #                                                                            #
 ##############################################################################
 
-val = bool(input("Digite verdadeiro ('True') ou falso (''): "))
+val = bool(input("Digite verdadeiro ('True') ou falso ('False'): "))
 
 print(f"NOT {val} = {not val}")
 
