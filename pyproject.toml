@@ -1,0 +1,17 @@
+[tool.poetry]
+package-mode = false
+name = "bootcamp-data-eng"
+description = "Repositório de arquivos das aulas do Bootcamp de Python, SQL e Git para Engenharia de Dados do Luciano Galvão."
+authors = ["Kaio Rocha <kaiodtr@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.6.4"
+pandera = "^0.18.3"
+pandas = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
