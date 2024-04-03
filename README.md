@@ -14,7 +14,7 @@ O repositório oficial do Bootcamp pode ser acessado neste [link](https://github
 | ✅      | [Aula 04 - Type Hint, Tipos Complexos (Dicionários vs. DataFrames vs. Tabelas vs. Excel) e Funções](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_04) | 22/02/2024 |
 | ✅      | [Aula 05 - Projeto 01: Leitura e Escrita de Arquivos, Lendo 1 Bilhão de Linhas](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_05)                     | 23/02/2024 |
 | ✅      | [Aula 06 - Aula de Revisão e Dúvidas](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_06)                                                               | 26/02/2024 |
-| ⬜      | Aula 07 - Funções em Python e Estruturas de Dados - Parte 1                                                                                                        | 27/02/2024 |
+| ✅      | [Aula 07 - Funções em Python e Estruturas de Dados - Parte 1](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_07)                                       | 27/02/2024 |
 | ⬜      | Aula 08 - Funções em Python e Estruturas de Dados - Parte 2                                                                                                        | 28/02/2024 |
 | ⬜      | Aula 09 - Funções em Python e Estruturas de Dados - Parte 3                                                                                                        | 29/02/2024 |
 | ⬜      | Aula 10 - Aula de Revisão e Dúvidas                                                                                                                                | 01/03/2024 |
