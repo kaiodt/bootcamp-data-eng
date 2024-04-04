@@ -70,3 +70,18 @@ def compute_sales_by_category(
         )
 
     return sales_by_category
+
+
+def run_pipeline(path_to_csv: str) -> None:
+    product_list = read_csv(path_to_csv)
+    products_by_category = group_by_category(product_list)
+    sales_by_category = compute_sales_by_category(products_by_category)
+
+    for category, total_sales in sales_by_category.items():
+        print(f'{category}: $ {total_sales:.2f}')
+
+
+if __name__ == '__main__':
+    SALES_CSV_PATH = 'vendas.csv'
+
+    run_pipeline(SALES_CSV_PATH)
