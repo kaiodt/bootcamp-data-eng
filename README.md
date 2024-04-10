@@ -16,5 +16,5 @@ O repositório oficial do Bootcamp pode ser acessado neste [link](https://github
 | ✅      | [Aula 06 - Aula de Revisão e Dúvidas](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_06)                                                               | 26/02/2024 |
 | ✅      | [Aula 07 - Funções em Python e Estruturas de Dados - Parte 1](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_07)                                       | 27/02/2024 |
 | ✅      | [Aula 08 - Funções em Python e Estruturas de Dados - Parte 2](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_08)                                       | 28/02/2024 |
-| ⬜      | Aula 09 - Funções em Python e Estruturas de Dados - Parte 3                                                                                                        | 29/02/2024 |
+| ✅      | [Aula 09 - Funções em Python e Estruturas de Dados - Parte 3](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_09)                                       | 29/02/2024 |
 | ⬜      | Aula 10 - Aula de Revisão e Dúvidas                                                                                                                                | 01/03/2024 |
