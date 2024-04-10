@@ -5,7 +5,7 @@
 
 ### Pyenv
 
-- [**pyenv**](https://github.com/pyenv/pyenv) é uma ferramenta capaz de **gerenciar múltiplas versões** de [[💻 Python]] em uma **máquina**, de forma que uma não interfira na outra.
+- [**pyenv**](https://github.com/pyenv/pyenv) é uma ferramenta capaz de **gerenciar múltiplas versões** de **Python** em uma **máquina**, de forma que uma não interfira na outra.
 
 - O **pyenv** é a **forma recomendada** de **instalar** **Python** em uma máquina.
 
