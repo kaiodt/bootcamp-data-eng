@@ -19,7 +19,7 @@ O repositório oficial do Bootcamp pode ser acessado neste [link](https://github
 | ✅      | [Aula 09 - Funções em Python e Estruturas de Dados - Parte 3](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_09)                                       | 29/02/2024 |
 | ✅      | [Aula 10 - Aula de Revisão e Dúvidas](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_10)                                                               | 01/03/2024 |
 | ✅      | [Aula 11 - Introdução à POO](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_11)                                                                        | 04/03/2024 |
-| ⬜      | Aula 12 - Introdução às Classes em Python                                                                                                                          | 05/03/2024 |
+| ✅      | [Aula 12 - Introdução às Classes em Python](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_12)                                                         | 05/03/2024 |
 | ⬜      | Aulas 13 e 14 - Herança e Polimorfismo                                                                                                                             | 07/03/2024 |
 | ⬜      | Aula 15 - Conclusão de POO                                                                                                                                         | 08/03/2024 |
 | ⬜      | Aula 16 - Revisão de POO e SQLModel                                                                                                                                | 18/03/2024 |
