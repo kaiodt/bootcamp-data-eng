@@ -444,4 +444,4 @@ while True:
 
 ## Código Completo do Desafio
 
-- O código completo da solução do desafio pode ser encontrado na pasta [`src`](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aulas_13_14/src).
+- O código completo da solução do desafio pode ser encontrado na pasta [`src`](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_13_14/src).
