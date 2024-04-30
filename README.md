@@ -23,7 +23,7 @@ O repositório oficial do Bootcamp pode ser acessado neste [link](https://github
 | ✅      | [Aulas 13 e 14 - Herança e Polimorfismo](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_13_14)                                                         | 07/03/2024 |
 | ✅      | [Aula 15 - Conclusão de POO](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_15)                                                                        | 08/03/2024 |
 | ✅      | [Aula 16 - Revisão de POO e SQLModel](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_16)                                                               | 18/03/2024 |
-| ⬜      | Aula 17 - SQLAlchemy - Conjunto de Ferramentas para Manipular SQL em Python                                                                                        | 19/03/2024 |
+| ✅      | [Aula 17 - SQLAlchemy - Conjunto de Ferramentas para Manipular SQL em Python](https://github.com/kaiodt/bootcamp-data-eng/tree/main/aula_17)                       | 19/03/2024 |
 | ⬜      | Aula 18 - O que é uma API - Request, Pydantic e Fazendo Nosso CRUD                                                                                                 | 20/03/2024 |
 | ⬜      | Aula 19 - O que é uma API - Criando Nossa Primeira API                                                                                                             | 21/03/2024 |
 | ⬜      | Aula 20 - Nosso Projeto de CRUD - Backend, Frontend e Banco de Dados                                                                                               | 22/03/2024 |
