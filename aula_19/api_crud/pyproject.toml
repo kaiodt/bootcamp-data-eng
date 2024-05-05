@@ -1,0 +1,15 @@
+[tool.poetry]
+package-mode = false
+name = "api-crud"
+description = ""
+authors = ["Kaio Rocha <kaiodtr@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.2"
+uvicorn = "^0.29.0"
+sqlalchemy = "^2.0.30"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
